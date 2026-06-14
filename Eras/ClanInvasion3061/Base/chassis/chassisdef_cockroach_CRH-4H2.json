@@ -22,18 +22,18 @@
     }
   ],
   "Description": {
-    "Cost": 1017789,
+    "Cost": 908641,
     "Rarity": 5,
     "Purchasable": true,
     "Manufacturer": "",
     "Model": "",
     "UIName": "Cockroach",
-    "Id": "chassisdef_cockroach_CRH-2B",
+    "Id": "chassisdef_cockroach_CRH-4H2",
     "Name": "Cockroach",
-    "Details": "The CRH-2B distinguishes itself through an unusual density of reinforced components, including an armored cockpit, armored engine shielding, a defensive-rated gyro, and reinforced leg and arm actuators that resist crippling damage. Ferro-Fibrous armor plating keeps weight manageable despite this added bulk, while internal spall liners reduce the risk of catastrophic crew or component loss from penetrating hits. Armed with twin PPCs and three Medium Lasers, and fitted with assault-class jump jets for repositioning, the CRH-2B remains a stubbornly difficult mech to put down for good.\n\n<b><color=#e62e00>Quirk: Reinforced Structure</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>",
+    "Details": "The CRH-4H2 builds directly on the CRH-4H, upgrading all three Medium Lasers to Medium Pulse Lasers and adding a fourth in the center torso for substantially improved close-range accuracy and output. An Advanced Targeting Computer and additional energy and heat tracking systems further sharpen its weapons' effectiveness, supported by extra heat sinks in both arms. To accommodate this expanded and refined arsenal, the CRH-4H2 sacrifices its jump jets entirely — a trade-off that grounds the design but leaves its renowned armor and defensive systems fully intact.\n\n<b><color=#e62e00>Quirk: Reinforced Structure</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>",
     "Icon": "uixTxrIcon_ironclad"
   },
-  "VariantName": "CRH-2B",
+  "VariantName": "CRH-4H2",
   "ChassisTags": {
     "items": [
       "mr-resize-0.9"
@@ -114,7 +114,15 @@
       "Location": "LeftTorso",
       "Hardpoints": [
         {
+          "WeaponMountID": "Ballistic",
+          "Omni": false
+        },
+        {
           "WeaponMountID": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMountID": "AntiPersonnel",
           "Omni": false
         },
         {
@@ -132,7 +140,7 @@
       "Location": "CenterTorso",
       "Hardpoints": [
         {
-          "WeaponMountID": "AntiPersonnel",
+          "WeaponMountID": "Energy",
           "Omni": false
         }
       ],
@@ -150,10 +158,6 @@
           "Omni": false
         },
         {
-          "WeaponMountID": "Missile",
-          "Omni": false
-        },
-        {
           "WeaponMountID": "Special",
           "Omni": false
         }
@@ -167,10 +171,6 @@
     {
       "Location": "RightArm",
       "Hardpoints": [
-        {
-          "WeaponMountID": "Energy",
-          "Omni": false
-        },
         {
           "WeaponMountID": "Energy",
           "Omni": false

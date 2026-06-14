@@ -28,12 +28,12 @@
     "Manufacturer": "",
     "Model": "",
     "UIName": "Cockroach",
-    "Id": "chassisdef_cockroach_CRH-2B",
+    "Id": "chassisdef_cockroach_CRH-2Br",
     "Name": "Cockroach",
-    "Details": "The CRH-2B distinguishes itself through an unusual density of reinforced components, including an armored cockpit, armored engine shielding, a defensive-rated gyro, and reinforced leg and arm actuators that resist crippling damage. Ferro-Fibrous armor plating keeps weight manageable despite this added bulk, while internal spall liners reduce the risk of catastrophic crew or component loss from penetrating hits. Armed with twin PPCs and three Medium Lasers, and fitted with assault-class jump jets for repositioning, the CRH-2B remains a stubbornly difficult mech to put down for good.\n\n<b><color=#e62e00>Quirk: Reinforced Structure</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>",
+    "Details": "The CRH-2Br is a common field refit of the original CRH-2B, replacing its single heat sinks with double heat sinks throughout. This simple upgrade allows the Cockroach's twin PPCs to fire more frequently without risking shutdown, meaningfully improving sustained combat performance while leaving the chassis's signature armor, reinforced actuators, and defensive systems entirely untouched.\n\n<b><color=#e62e00>Quirk: Reinforced Structure</color></b>\n\n<b><color=#e62e00>Drop Cost Multiplier: 1.14</color></b>",
     "Icon": "uixTxrIcon_ironclad"
   },
-  "VariantName": "CRH-2B",
+  "VariantName": "CRH-2Br",
   "ChassisTags": {
     "items": [
       "mr-resize-0.9"
@@ -100,6 +100,10 @@
           "Omni": false
         },
         {
+          "WeaponMountID": "Missile",
+          "Omni": false
+        },
+        {
           "WeaponMountID": "SpecialHandHeld",
           "Omni": false
         }
@@ -146,11 +150,11 @@
       "Location": "RightTorso",
       "Hardpoints": [
         {
-          "WeaponMountID": "Energy",
+          "WeaponMountID": "Ballistic",
           "Omni": false
         },
         {
-          "WeaponMountID": "Missile",
+          "WeaponMountID": "Energy",
           "Omni": false
         },
         {
@@ -167,10 +171,6 @@
     {
       "Location": "RightArm",
       "Hardpoints": [
-        {
-          "WeaponMountID": "Energy",
-          "Omni": false
-        },
         {
           "WeaponMountID": "Energy",
           "Omni": false
