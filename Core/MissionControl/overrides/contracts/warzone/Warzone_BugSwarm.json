@@ -1596,7 +1596,6 @@
 				"lanceDefId": "Tagged",
 				"lanceTagSet": {
 					"items": [
-						"lance_type_light",
 						"lance_type_bug"
 					],
 					"tagSetSourceFile": "tags/LanceTags"
@@ -1613,7 +1612,7 @@
 				},
 				"lanceDifficultyAdjustment": 0,
 				"selectedLanceDefId": "",
-				"selectedLanceDifficulty": 0,
+				"selectedLanceDifficulty": -2,
 				"unitSpawnPointOverrideList": [
 					{
 						"unitSpawnPoint": {
@@ -1757,7 +1756,6 @@
 				"lanceDefId": "Tagged",
 				"lanceTagSet": {
 					"items": [
-						"lance_type_light",
 						"lance_type_bug"
 					],
 					"tagSetSourceFile": "tags/LanceTags"
@@ -1774,7 +1772,7 @@
 				},
 				"lanceDifficultyAdjustment": 0,
 				"selectedLanceDefId": "",
-				"selectedLanceDifficulty": 0,
+				"selectedLanceDifficulty": -2,
 				"unitSpawnPointOverrideList": [
 					{
 						"unitSpawnPoint": {
@@ -1918,7 +1916,6 @@
 				"lanceDefId": "Tagged",
 				"lanceTagSet": {
 					"items": [
-						"lance_type_light",
 						"lance_type_bug"
 					],
 					"tagSetSourceFile": "tags/LanceTags"
@@ -1935,7 +1932,7 @@
 				},
 				"lanceDifficultyAdjustment": 0,
 				"selectedLanceDefId": "",
-				"selectedLanceDifficulty": 0,
+				"selectedLanceDifficulty": -2,
 				"unitSpawnPointOverrideList": [
 					{
 						"unitSpawnPoint": {
@@ -2079,7 +2076,6 @@
 				"lanceDefId": "Tagged",
 				"lanceTagSet": {
 					"items": [
-						"lance_type_light",
 						"lance_type_bug"
 					],
 					"tagSetSourceFile": "tags/LanceTags"
@@ -2096,7 +2092,7 @@
 				},
 				"lanceDifficultyAdjustment": 0,
 				"selectedLanceDefId": "",
-				"selectedLanceDifficulty": 0,
+				"selectedLanceDifficulty": -2,
 				"unitSpawnPointOverrideList": [
 					{
 						"unitSpawnPoint": {
@@ -2240,7 +2236,6 @@
 				"lanceDefId": "Tagged",
 				"lanceTagSet": {
 					"items": [
-						"lance_type_light",
 						"lance_type_bug"
 					],
 					"tagSetSourceFile": "tags/LanceTags"
@@ -2257,7 +2252,7 @@
 				},
 				"lanceDifficultyAdjustment": 1,
 				"selectedLanceDefId": "",
-				"selectedLanceDifficulty": 0,
+				"selectedLanceDifficulty": -2,
 				"unitSpawnPointOverrideList": [
 					{
 						"unitSpawnPoint": {
@@ -2401,7 +2396,6 @@
 				"lanceDefId": "Tagged",
 				"lanceTagSet": {
 					"items": [
-						"lance_type_light",
 						"lance_type_bug"
 					],
 					"tagSetSourceFile": "tags/LanceTags"
@@ -2418,7 +2412,7 @@
 				},
 				"lanceDifficultyAdjustment": 1,
 				"selectedLanceDefId": "",
-				"selectedLanceDifficulty": 0,
+				"selectedLanceDifficulty": -2,
 				"unitSpawnPointOverrideList": [
 					{
 						"unitSpawnPoint": {
@@ -2562,7 +2556,6 @@
 				"lanceDefId": "Tagged",
 				"lanceTagSet": {
 					"items": [
-						"lance_type_light",
 						"lance_type_bug"
 					],
 					"tagSetSourceFile": "tags/LanceTags"
@@ -2579,7 +2572,7 @@
 				},
 				"lanceDifficultyAdjustment": 1,
 				"selectedLanceDefId": "",
-				"selectedLanceDifficulty": 0,
+				"selectedLanceDifficulty": -2,
 				"unitSpawnPointOverrideList": [
 					{
 						"unitSpawnPoint": {
@@ -2723,7 +2716,6 @@
 				"lanceDefId": "Tagged",
 				"lanceTagSet": {
 					"items": [
-						"lance_type_light",
 						"lance_type_bug"
 					],
 					"tagSetSourceFile": "tags/LanceTags"
@@ -2740,7 +2732,7 @@
 				},
 				"lanceDifficultyAdjustment": 1,
 				"selectedLanceDefId": "",
-				"selectedLanceDifficulty": 0,
+				"selectedLanceDifficulty": -2,
 				"unitSpawnPointOverrideList": [
 					{
 						"unitSpawnPoint": {
@@ -2884,7 +2876,6 @@
 				"lanceDefId": "Tagged",
 				"lanceTagSet": {
 					"items": [
-						"lance_type_light",
 						"lance_type_bug"
 					],
 					"tagSetSourceFile": "tags/LanceTags"
@@ -2901,7 +2892,7 @@
 				},
 				"lanceDifficultyAdjustment": 1,
 				"selectedLanceDefId": "",
-				"selectedLanceDifficulty": 0,
+				"selectedLanceDifficulty": -2,
 				"unitSpawnPointOverrideList": [
 					{
 						"unitSpawnPoint": {
@@ -3045,7 +3036,6 @@
 				"lanceDefId": "Tagged",
 				"lanceTagSet": {
 					"items": [
-						"lance_type_light",
 						"lance_type_bug"
 					],
 					"tagSetSourceFile": "tags/LanceTags"
@@ -3062,7 +3052,7 @@
 				},
 				"lanceDifficultyAdjustment": 1,
 				"selectedLanceDefId": "",
-				"selectedLanceDifficulty": 0,
+				"selectedLanceDifficulty": -2,
 				"unitSpawnPointOverrideList": [
 					{
 						"unitSpawnPoint": {
